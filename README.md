@@ -2,7 +2,7 @@
 A space-themed 2D arcade shooter inspired by Galaga — destroy asteroids, manage fuel, and survive enemy ships in deep space!
 # My Space-Themed Game – 2D Arcade Shooter
 
-This is a space-themed 2D arcade shooter inspired by the legendary game Galaga, developed as a midterm project for CENG 454. It blends retro gameplay with modern mechanics like fuel management, collision physics, and enemy AI — all rendered with custom assets and classic music.
+This is a space-themed 2D arcade shooter inspired by the legendary game Galaga, developed as a midterm project for CENG 454. It blends retro gameplay with modern mechanics like fuel management, collision physics, and enemy AI — all rendered with custom assets and classic music
 
 ## 🚀 Game Overview
 
